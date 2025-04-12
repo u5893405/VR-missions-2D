@@ -17,4 +17,4 @@ Esc - pause menu
 
 # Releases
 
-https://github.com/u5893405/VR-missions-2D/releases/download/alpha/VR-missions.-.9.apr-1.exe
+https://github.com/u5893405/VR-missions-2D/releases/download/0.0.2/VR-missions.-.12.apr-1.exe
