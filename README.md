@@ -7,7 +7,7 @@ A game with dynamically generated mazes, that aims to replicate basics of VR Mis
 
 WASD/arrows - movement / lean against walls
 
-Spacebar - attack
+Spacebar - attack / knock on walls (when leaning against) for distraction
 
 V - carry/drop a body
 
