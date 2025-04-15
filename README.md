@@ -3,11 +3,13 @@ A game inspired by MGS VR Missions
 
 A game with dynamically generated mazes, that aims to replicate basics of VR Mission game and enrich it with additional elements, minding the difference between this game and original 3D.
 
-# Controls:
+# Controls (default):
 
-WASD/arrows - movement
+WASD/arrows - movement / lean against walls
 
 Spacebar - attack
+
+V - carry/drop a body
 
 Shift - run
 
@@ -17,4 +19,4 @@ Esc - pause menu
 
 # Releases
 
-https://github.com/u5893405/VR-missions-2D/releases/download/0.0.2/VR-missions.-.12.apr-1.exe
+https://github.com/u5893405/VR-missions-2D/releases/tag/0.0.3
