@@ -13,7 +13,7 @@ Spacebar - attack / knock on walls (when leaning against) for distraction
 
 V - carry/drop a body
 
-F - through a knife (when equipped and selected)
+F - throw a knife (when equipped and selected)
 
 Shift - run
 
